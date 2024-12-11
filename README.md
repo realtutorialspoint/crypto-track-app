@@ -1,7 +1,7 @@
 
 # Crypto Track
 
-A simple application that shows realtime pricing of crpytocurrencies.
+A simple application that shows realtime pricing of cryptocurrencies.
 
 
 ## Tech Stack
