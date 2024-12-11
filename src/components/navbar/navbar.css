@@ -1,0 +1,9 @@
+.headline {
+    margin-top: 12px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.headline>span {
+    color: #04af2f;
+}
