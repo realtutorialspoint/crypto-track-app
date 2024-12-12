@@ -3,6 +3,7 @@
 
 A simple application that shows realtime pricing of cryptocurrencies.
 
+![screenshot](/screenshot.png)
 
 ## Tech Stack
 
